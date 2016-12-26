@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Main" className="Program" startTime="2016-12-26T14:34:06.3139636Z" elapsedTime="1138.0651" paramCount="1">
+  <insertedMethod>
+    <MethodDescriptor threadId="10" methodName="Func5" className="Program" startTime="2016-12-26T14:34:06.3319646Z" elapsedTime="655.0375" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func2" className="Program" startTime="2016-12-26T14:34:06.9880021Z" elapsedTime="113.0065" paramCount="0">
+      <insertedMethod>
+        <MethodDescriptor threadId="10" methodName="Func3" className="Program" startTime="2016-12-26T14:34:07.0010029Z" elapsedTime="100.0057" paramCount="0">
+          <insertedMethod>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0110034Z" elapsedTime="10.0006" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.021004Z" elapsedTime="10.0006" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0310046Z" elapsedTime="10.0006" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0410052Z" elapsedTime="10.0005" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0510057Z" elapsedTime="10.0006" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0610063Z" elapsedTime="10.0006" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0710069Z" elapsedTime="10.0005" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0810074Z" elapsedTime="10.0006" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+            <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.091008Z" elapsedTime="10.0006" paramCount="0">
+              <insertedMethod />
+            </MethodDescriptor>
+          </insertedMethod>
+        </MethodDescriptor>
+      </insertedMethod>
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1010086Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+  </insertedMethod>
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func5" className="Program" startTime="2016-12-26T14:34:06.3319646Z" elapsedTime="655.0375" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func2" className="Program" startTime="2016-12-26T14:34:06.9880021Z" elapsedTime="113.0065" paramCount="0">
+  <insertedMethod>
+    <MethodDescriptor threadId="10" methodName="Func3" className="Program" startTime="2016-12-26T14:34:07.0010029Z" elapsedTime="100.0057" paramCount="0">
+      <insertedMethod>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0110034Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.021004Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0310046Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0410052Z" elapsedTime="10.0005" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0510057Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0610063Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0710069Z" elapsedTime="10.0005" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0810074Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.091008Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+      </insertedMethod>
+    </MethodDescriptor>
+  </insertedMethod>
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func3" className="Program" startTime="2016-12-26T14:34:07.0010029Z" elapsedTime="100.0057" paramCount="0">
+  <insertedMethod>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0110034Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.021004Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0310046Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0410052Z" elapsedTime="10.0005" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0510057Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0610063Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0710069Z" elapsedTime="10.0005" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0810074Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.091008Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+  </insertedMethod>
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0110034Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.021004Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0310046Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0410052Z" elapsedTime="10.0005" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0510057Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0610063Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0710069Z" elapsedTime="10.0005" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.0810074Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.091008Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="10" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1010086Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="11" methodName="Func6" className="Program" startTime="2016-12-26T14:34:06.969001Z" elapsedTime="18.0011" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="12" methodName="Func6" className="Program" startTime="2016-12-26T14:34:06.9870021Z" elapsedTime="10.0005" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="13" methodName="Func6" className="Program" startTime="2016-12-26T14:34:06.9870021Z" elapsedTime="10.0005" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="14" methodName="Func6" className="Program" startTime="2016-12-26T14:34:06.9910023Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="15" methodName="Func1" className="Program" startTime="2016-12-26T14:34:07.1140093Z" elapsedTime="129.00740000000002" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func2" className="Program" startTime="2016-12-26T14:34:07.1290102Z" elapsedTime="110.00630000000001" paramCount="0">
+  <insertedMethod>
+    <MethodDescriptor threadId="16" methodName="Func3" className="Program" startTime="2016-12-26T14:34:07.1390108Z" elapsedTime="100.0057" paramCount="0">
+      <insertedMethod>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1490113Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1590119Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1690125Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1790131Z" elapsedTime="10.0005" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1890136Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1990142Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2090148Z" elapsedTime="10.0005" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2190153Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2290159Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+      </insertedMethod>
+    </MethodDescriptor>
+  </insertedMethod>
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func3" className="Program" startTime="2016-12-26T14:34:07.1390108Z" elapsedTime="100.0057" paramCount="0">
+  <insertedMethod>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1490113Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1590119Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1690125Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1790131Z" elapsedTime="10.0005" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1890136Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1990142Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2090148Z" elapsedTime="10.0005" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2190153Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2290159Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+  </insertedMethod>
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1490113Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1590119Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1690125Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1790131Z" elapsedTime="10.0005" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1890136Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.1990142Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2090148Z" elapsedTime="10.0005" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2190153Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="16" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.2290159Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="17" methodName="Func1" className="Program" startTime="2016-12-26T14:34:07.2490171Z" elapsedTime="201.0115" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func2" className="Program" startTime="2016-12-26T14:34:07.3390222Z" elapsedTime="110.00630000000001" paramCount="0">
+  <insertedMethod>
+    <MethodDescriptor threadId="18" methodName="Func3" className="Program" startTime="2016-12-26T14:34:07.3490228Z" elapsedTime="100.0057" paramCount="0">
+      <insertedMethod>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3590233Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3690239Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3790245Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3890251Z" elapsedTime="10.0005" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3990256Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4090262Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4190268Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4290274Z" elapsedTime="10.0005" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+        <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4390279Z" elapsedTime="10.0006" paramCount="0">
+          <insertedMethod />
+        </MethodDescriptor>
+      </insertedMethod>
+    </MethodDescriptor>
+  </insertedMethod>
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func3" className="Program" startTime="2016-12-26T14:34:07.3490228Z" elapsedTime="100.0057" paramCount="0">
+  <insertedMethod>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3590233Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3690239Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3790245Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3890251Z" elapsedTime="10.0005" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3990256Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4090262Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4190268Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4290274Z" elapsedTime="10.0005" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+    <MethodDescriptor threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4390279Z" elapsedTime="10.0006" paramCount="0">
+      <insertedMethod />
+    </MethodDescriptor>
+  </insertedMethod>
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3590233Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3690239Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3790245Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3890251Z" elapsedTime="10.0005" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.3990256Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4090262Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4190268Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4290274Z" elapsedTime="10.0005" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor><?xml version="1.0" encoding="utf-8"?>
+<MethodDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" threadId="18" methodName="Func4" className="Program" startTime="2016-12-26T14:34:07.4390279Z" elapsedTime="10.0006" paramCount="0">
+  <insertedMethod />
+</MethodDescriptor>

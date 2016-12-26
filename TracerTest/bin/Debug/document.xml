@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread id="10" time="1138,065 ms">
+    <method name="Main" class="Program" params="1" time="1138,065 ms">
+      <method name="Func5" class="Program" params="0" time="655,038 ms" />
+      <method name="Func2" class="Program" params="0" time="113,006 ms">
+        <method name="Func3" class="Program" params="0" time="100,006 ms">
+          <method name="Func4" class="Program" params="0" time="10,001 ms" />
+          <method name="Func4" class="Program" params="0" time="10,001 ms" />
+          <method name="Func4" class="Program" params="0" time="10,001 ms" />
+          <method name="Func4" class="Program" params="0" time="10 ms" />
+          <method name="Func4" class="Program" params="0" time="10,001 ms" />
+          <method name="Func4" class="Program" params="0" time="10,001 ms" />
+          <method name="Func4" class="Program" params="0" time="10 ms" />
+          <method name="Func4" class="Program" params="0" time="10,001 ms" />
+          <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        </method>
+      </method>
+      <method name="Func4" class="Program" params="0" time="10,001 ms" />
+    </method>
+  </thread>
+  <thread id="11" time="18,001 ms">
+    <method name="Func6" class="Program" params="0" time="18,001 ms" />
+  </thread>
+  <thread id="12" time="10 ms">
+    <method name="Func6" class="Program" params="0" time="10 ms" />
+  </thread>
+  <thread id="13" time="10 ms">
+    <method name="Func6" class="Program" params="0" time="10 ms" />
+  </thread>
+  <thread id="14" time="10,001 ms">
+    <method name="Func6" class="Program" params="0" time="10,001 ms" />
+  </thread>
+  <thread id="15" time="129,007 ms">
+    <method name="Func1" class="Program" params="0" time="129,007 ms" />
+  </thread>
+  <thread id="16" time="110,006 ms">
+    <method name="Func2" class="Program" params="0" time="110,006 ms">
+      <method name="Func3" class="Program" params="0" time="100,006 ms">
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+      </method>
+    </method>
+  </thread>
+  <thread id="17" time="201,012 ms">
+    <method name="Func1" class="Program" params="0" time="201,012 ms" />
+  </thread>
+  <thread id="18" time="110,006 ms">
+    <method name="Func2" class="Program" params="0" time="110,006 ms">
+      <method name="Func3" class="Program" params="0" time="100,006 ms">
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+        <method name="Func4" class="Program" params="0" time="10 ms" />
+        <method name="Func4" class="Program" params="0" time="10,001 ms" />
+      </method>
+    </method>
+  </thread>
+</root>

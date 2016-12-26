@@ -1,0 +1,9 @@
+D:\Учёба\Семестр 5\СПП\Tracer\Tracer\Tracer\bin\Debug\Tracer.dll
+D:\Учёба\Семестр 5\СПП\Tracer\Tracer\Tracer\bin\Debug\Tracer.pdb
+D:\Учёба\Семестр 5\СПП\Tracer\Tracer\Tracer\obj\Debug\Tracer.dll
+D:\Учёба\Семестр 5\СПП\Tracer\Tracer\Tracer\obj\Debug\Tracer.pdb
+D:\Учёба\Семестр 5\СПП\Lab1\Tracer\Tracer\Tracer\bin\Debug\Tracer.dll
+D:\Учёба\Семестр 5\СПП\Lab1\Tracer\Tracer\Tracer\bin\Debug\Tracer.pdb
+D:\Учёба\Семестр 5\СПП\Lab1\Tracer\Tracer\Tracer\obj\Debug\Tracer.csprojResolveAssemblyReference.cache
+D:\Учёба\Семестр 5\СПП\Lab1\Tracer\Tracer\Tracer\obj\Debug\Tracer.dll
+D:\Учёба\Семестр 5\СПП\Lab1\Tracer\Tracer\Tracer\obj\Debug\Tracer.pdb
